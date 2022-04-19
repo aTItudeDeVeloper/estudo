@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "locomotive22",
+      "database": "estudo",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "postgres",
+      "password": "postgres",
+      "database": "muzie_db_test",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "postgres",
+      "password": "postgres",
+      "database": "muzie_db_prod",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
